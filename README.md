@@ -10,6 +10,6 @@ frequency and power spectrum of the [sunspots](https://www.swpc.noaa.gov/phenome
       4. Power Spectrum, |amplitude| vs frequency
 ### Getting started
   1. Download [Visual Studio Code](https://code.visualstudio.com/download) for macOS or Windows 
-  2. Install Python Interpreter path 'venv 3.8.X' (https://code.visualstudio.com/docs/python/python-tutorial)
+  2. Install [Python Interpreter path](https://code.visualstudio.com/docs/python/python-tutorial) 'venv 3.8.X'
   3. run ```npm install git+{copied_url}``` to download all deoendencies
  
